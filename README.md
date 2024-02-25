@@ -13,15 +13,6 @@ The supported devices are:
 * [VLAN Switch](./vlan-switch/) - using a hAP ac lite and wifi. The hardware offloading is preserved.
 * [Double CAPsMAN](./double-capsman/) - using a hAP ac lite running two CAPs managers a connecting CAP tunnels its traffic locally into VLANs.
 
-## Contribution
-
-Feel free to contribute. Knowledge and new insights are always welcome. If you know a better way, please share it. Some rules:
-
-1. Start with empty configuration.
-2. Share only working configuration.
-3. Save configuration with `/export terse`.
-4. Use RouterOS 7.
-
 ### Tools to use
 
 ## License / Re-use
