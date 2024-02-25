@@ -14,11 +14,14 @@ The supported devices are:
 
 ## Contribution
 
-Feel free to contribute. Knowledge and new insights are always welcome. If you know a better way, please share it. Three rules:
+Feel free to contribute. Knowledge and new insights are always welcome. If you know a better way, please share it. Some rules:
 
-* Start with empty configuration.
-* Share only working configuration.
-* Three with `/export terse`.
+1. Start with empty configuration.
+2. Share only working configuration.
+3. Save configuration with `/export terse`.
+4. Use RouterOS 7.
+
+### Tools to use
 
 ## License / Re-use
 
