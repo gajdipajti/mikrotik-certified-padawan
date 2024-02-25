@@ -10,7 +10,8 @@ The supported devices are:
 
 ## Configurations
 
-* [VLAN Switch](./vlan-switch/VLAN-SWITCH.md) - using a hAP ac lite and wifi. The hardware offloading is preserved.
+* [VLAN Switch](./vlan-switch/README.md) - using a hAP ac lite and wifi. The hardware offloading is preserved.
+* [Double CAPsMAN](./double-capsman/) - using a hAP ac lite running two CAPs managers a connecting CAP tunnels its traffic locally into VLANs.
 
 ## Contribution
 
