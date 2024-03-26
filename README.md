@@ -16,6 +16,15 @@ The supported devices are:
 
 ### Tools to use
 
+* [Draw.io](https://www.drawio.com/) or [Draw.io snap](https://snapcraft.io/drawio)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+  * [Cyberpunk Theme](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk) or [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+  * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  * [Markdown to PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+  * [Mikrotik RouterOS script](https://marketplace.visualstudio.com/items?itemName=devMike.mikrotik-routeros-script) or [RouterOS configuration](https://marketplace.visualstudio.com/items?itemName=lautaportti.routeros-conf) or [RouterOS Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=cperezabo.routeros-syntax)
+* [Git](https://git-scm.com/download/win) or package manager
+* [Winbox](https://mikrotik.com/download) or [Winbox snap](https://snapcraft.io/winbox)
+
 ## License / Re-use
 
 The code and documentation is shared under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. If you use them in any work (training material, video material, ...) please give attribution.
