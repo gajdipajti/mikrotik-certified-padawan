@@ -25,6 +25,10 @@ The supported devices are:
 * [Git](https://git-scm.com/download/win) or package manager
 * [Winbox](https://mikrotik.com/download) or [Winbox snap](https://snapcraft.io/winbox)
 
+## Misc/For Fun
+
+* [Lack Rack](http://eth-0.nl/lackrack.pdf) - Cheapest open rack concept. [Ikea link](https://www.ikea.com/hu/hu/p/lack-dohanyzoasztal-fekete-barna-80104268/#content)
+
 ## License / Re-use
 
 The code and documentation is shared under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. If you use them in any work (training material, video material, ...) please give attribution.
