@@ -27,6 +27,7 @@ The supported devices are:
 
 ## Misc/For Fun
 
+* [3D Rack Mount]() - 3D printed rack mount for [RB260GS](https://mikrotik.com/product/RB260GS), [RB260GSP](https://mikrotik.com/product/RB260GSP), or similar. Made by P. Gábor. STL and Ultimaker CAM (Cura) project file.
 * [Lack Rack](http://eth-0.nl/lackrack.pdf) - Cheapest open rack concept. [Ikea link](https://www.ikea.com/hu/hu/p/lack-dohanyzoasztal-fekete-barna-80104268/#content)
 
 ## License / Re-use
