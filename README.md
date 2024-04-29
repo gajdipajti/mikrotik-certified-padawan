@@ -13,6 +13,7 @@ The supported devices are:
 * [VLAN Switch](./vlan-switch/) - using a hAP ac lite and wifi. The hardware offloading is preserved.
 * [Double CAPsMAN](./double-capsman/) - using a hAP ac lite running two CAPs managers a connecting CAP tunnels its traffic locally into VLANs.
 * [4to4](./4to4/) - The idea is to do a pseudo-static ipv4 to ipv4 translation. Every port can give only one IP. Two versions: with netmap, with routes.
+* [4to4-printer](./4to4-printer/) - The idea is the same as before, but the printers have the same 192.168.1.1 address.
 
 ### Tools to use
 
